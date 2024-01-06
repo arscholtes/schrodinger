@@ -1,0 +1,11 @@
+.mountain-container {
+    position: relative;
+    background-color: #eef;
+    height: 2000px; /* Adjust based on your content */
+}
+
+.climbing-character {
+    position: absolute;
+    width: 50px; /* Adjust size as needed */
+    transition: bottom 0.3s ease-out;
+}
