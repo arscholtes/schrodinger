@@ -3,10 +3,15 @@
 }
 
 .hero-section {
-    background-color: #4caf50;
     color: white;
     text-align: center;
     padding: 50px 20px;
+    /* Other styles here */
+    /*background: url('/Journey.jpg') no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .hero-section h1 {

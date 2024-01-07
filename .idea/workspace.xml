@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43387c7b-134c-4685-8944-eab532705c24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/LandingPage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LandingPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MountainClimber.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MountainClimber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Journey.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LandingPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LandingPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LandingPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LandingPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/onyx/Developer/schrodinger",
+    "last_opened_file_path": "/Users/onyx/Developer/schrodinger/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,7 +47,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
@@ -62,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704547112772</updated>
       <workItem from="1704547114144" duration="195000" />
-      <workItem from="1704547444800" duration="1043000" />
+      <workItem from="1704547444800" duration="3018000" />
     </task>
     <servers />
   </component>
